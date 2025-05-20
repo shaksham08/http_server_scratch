@@ -1,0 +1,16 @@
+{
+  "name": "http_server_scratch",
+  "version": "1.0.0",
+  "description": "A http server in node js from scratch without using any library or frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
